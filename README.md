@@ -2,5 +2,8 @@
 
 (Ekleme/düzeltme için pull request gönderebilirsiniz)
 
-Yayıncı | Pub.dev Bağlantısı
+Onaylı Yayıncı | Pub.dev Yayıncı Sayfa Bağlantısı
+--- | --- 
+
+Yayıncı | Pub.dev Paket Bağlantısı
 --- | --- 
