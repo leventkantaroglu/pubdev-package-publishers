@@ -5,7 +5,9 @@
 Onaylı Yayıncı | Repository | Pub.dev Yayıncı Sayfa Bağlantısı
 --- | --- | --- 
 Flutter Türkiye | [flutterturkey](https://github.com/flutterturkey) | https://pub.dev/publishers/flutterturkiye.org/
+Levent Kantaroğlu | [leventkantaroglu](https://github.com/leventkantaroglu) | https://pub.dev/publishers/leventkantaroglu.com/
 Mehmet Ali Bayram | [malibayram91](https://github.com/malibayram91) | https://pub.dev/publishers/dershub.com/
+Veli Bacık | [vb10](https://github.com/VB10) | https://pub.dev/publishers/vb10.dev/
 
 Yayıncı | Pub.dev Paket Bağlantısı
 --- | --- 
