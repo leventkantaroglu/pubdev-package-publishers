@@ -12,6 +12,8 @@ Veli Bacık | [VB10](https://github.com/VB10) | https://pub.dev/publishers/vb10.
 
 Yayıncı | Repository |Pub.dev Paket Bağlantısı
 --- | --- | --- 
-Fatih Işılgan | [FATIHISILGAN](https://github.com/FATIHISILGAN/)| https://pub.dev/packages/datalib
+Fatih Işılgan | [FATIHISILGAN](https://github.com/FATIHISILGAN/) | https://pub.dev/packages/datalib
+Hatice Nur Coşkun | [Haticenurcoskunn](https://github.com/Haticenurcoskunn/) | https://pub.dev/packages/vertical_listtile
+İlyas Hayrat | [ilyashyrt](https://github.com/ilyashyrt) | https://pub.dev/packages/circular_textfield 
 Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/packages/mina_reader
 Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/packages/awesome_stepper
