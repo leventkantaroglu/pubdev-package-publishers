@@ -8,9 +8,10 @@ Emre Coşkunçay| [coskuncay](https://github.com/coskuncay)| https://pub.dev/pub
 Flutter Türkiye | [flutterturkey](https://github.com/flutterturkey) | https://pub.dev/publishers/flutterturkiye.org/
 Levent Kantaroğlu | [leventkantaroglu](https://github.com/leventkantaroglu) | https://pub.dev/publishers/leventkantaroglu.com/
 Mehmet Ali Bayram | [malibayram91](https://github.com/malibayram91) | https://pub.dev/publishers/dershub.com/
-Veli Bacık | [vb10](https://github.com/VB10) | https://pub.dev/publishers/vb10.dev/
+Veli Bacık | [VB10](https://github.com/VB10) | https://pub.dev/publishers/vb10.dev/
 
 Yayıncı | Repository |Pub.dev Paket Bağlantısı
 --- | --- | --- 
+Fatih Işılgan | [FATIHISILGAN](https://github.com/FATIHISILGAN/)| https://pub.dev/packages/datalib
 Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/packages/mina_reader
 Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/packages/awesome_stepper
