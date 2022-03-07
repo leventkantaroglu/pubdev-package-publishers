@@ -11,4 +11,5 @@ Veli Bacık | [vb10](https://github.com/VB10) | https://pub.dev/publishers/vb10.
 
 Yayıncı | Repository |Pub.dev Paket Bağlantısı
 --- | --- | --- 
+Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/packages/mina_reader
 Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/packages/awesome_stepper
