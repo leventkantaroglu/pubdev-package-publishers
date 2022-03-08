@@ -14,9 +14,11 @@ Yasin İlhan | [kalismeras61](github.com/kalismeras61/) | https://pub.dev/publis
 
 Yayıncı | Repository |Pub.dev Paket Bağlantısı
 --- | --- | --- 
+Ahmet Burak Özyurt | [burakozyurt](https://github.com/burakozyurt/) | https://pub.dev/packages/stepper_counter_swipe
 Ahmet Fatih Çenesiz | [fcenesiz](https://github.com/fcenesiz) | https://pub.dev/packages/sticky_grid_view
 Fatih Işılgan | [FATIHISILGAN](https://github.com/FATIHISILGAN/) | https://pub.dev/packages/datalib
 Hatice Nur Coşkun | [Haticenurcoskunn](https://github.com/Haticenurcoskunn/) | https://pub.dev/packages/vertical_listtile
 İlyas Hayrat | [ilyashyrt](https://github.com/ilyashyrt) | https://pub.dev/packages/circular_textfield 
 Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/packages/mina_reader
 Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/packages/awesome_stepper
+
