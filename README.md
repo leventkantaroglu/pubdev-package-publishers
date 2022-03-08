@@ -9,6 +9,7 @@ Flutter Türkiye | [flutterturkey](https://github.com/flutterturkey) | https://p
 Levent Kantaroğlu | [leventkantaroglu](https://github.com/leventkantaroglu) | https://pub.dev/publishers/leventkantaroglu.com/
 Mehmet Ali Bayram | [malibayram91](https://github.com/malibayram91) | https://pub.dev/publishers/dershub.com/
 Mehmet Yaz | [Mehmetyaz](https://github.com/Mehmetyaz) | https://pub.dev/publishers/styledart.dev/packages
+Taner Şener | [tanersenerz](https://github.com/tanersenerz)  | https://pub.dev/publishers/arthenica.com/
 Veli Bacık | [VB10](https://github.com/VB10) | https://pub.dev/publishers/vb10.dev/
 Yasin İlhan | [kalismeras61](github.com/kalismeras61/) | https://pub.dev/publishers/yasinilhan.com/packages
 
