@@ -17,6 +17,7 @@ Yayıncı | Repository |Pub.dev Paket Bağlantısı
 Ahmet Burak Özyurt | [burakozyurt](https://github.com/burakozyurt/) | https://pub.dev/packages/stepper_counter_swipe
 Ahmet Çelik | [ahm3tcelik](https://github.com/ahm3tcelik) | https://pub.dev/packages/city_picker_from_map https://pub.dev/packages/dart_writer
 Ahmet Fatih Çenesiz | [fcenesiz](https://github.com/fcenesiz) | https://pub.dev/packages/sticky_grid_view
+Bahrican Yeşil | [bahricanyesil](https://github.com/bahricanyesil/) | https://pub.dev/packages/animated_login
 Fatih Işılgan | [FATIHISILGAN](https://github.com/FATIHISILGAN/) | https://pub.dev/packages/datalib
 Hatice Nur Coşkun | [Haticenurcoskunn](https://github.com/Haticenurcoskunn/) | https://pub.dev/packages/vertical_listtile
 İlyas Hayrat | [ilyashyrt](https://github.com/ilyashyrt) | https://pub.dev/packages/circular_textfield 
