@@ -25,4 +25,5 @@ Hatice Nur Coşkun | [Haticenurcoskunn](https://github.com/Haticenurcoskunn/) | 
 Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/packages/mina_reader
 Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/packages/awesome_stepper
 Raşit Ayaz | [RasitAyaz](https://github.com/RasitAyaz) | https://pub.dev/packages/pie_menu
+Tayyip Güzel | [tyypgzl](https://github.com/tyypgzl) | https://pub.dev/packages/easy_onboard
 
