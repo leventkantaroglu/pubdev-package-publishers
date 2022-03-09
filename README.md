@@ -24,4 +24,5 @@ Hatice Nur Coşkun | [Haticenurcoskunn](https://github.com/Haticenurcoskunn/) | 
 İlyas Hayrat | [ilyashyrt](https://github.com/ilyashyrt) | https://pub.dev/packages/circular_textfield 
 Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/packages/mina_reader
 Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/packages/awesome_stepper
+Raşit Ayaz | [RasitAyaz](https://github.com/RasitAyaz) | https://pub.dev/packages/pie_menu
 
