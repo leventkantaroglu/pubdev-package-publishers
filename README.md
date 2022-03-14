@@ -15,7 +15,6 @@ Yasin İlhan | [kalismeras61](github.com/kalismeras61/) | https://pub.dev/publis
 
 Yayıncı | Repository |Pub.dev Paket Bağlantısı
 --- | --- | --- 
-Ufuk Şahin | [ufukhawk](https://github.com/ufukhawk) | https://pub.dev/packages/safe_device
 Ahmet Burak Özyurt | [burakozyurt](https://github.com/burakozyurt/) | https://pub.dev/packages/stepper_counter_swipe
 Ahmet Çelik | [ahm3tcelik](https://github.com/ahm3tcelik) | https://pub.dev/packages/city_picker_from_map https://pub.dev/packages/dart_writer
 Ahmet Fatih Çenesiz | [fcenesiz](https://github.com/fcenesiz) | https://pub.dev/packages/sticky_grid_view
@@ -28,5 +27,6 @@ Hatice Nur Coşkun | [Haticenurcoskunn](https://github.com/Haticenurcoskunn/) | 
 Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/packages/mina_reader
 Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/packages/awesome_stepper
 Raşit Ayaz | [RasitAyaz](https://github.com/RasitAyaz) | https://pub.dev/packages/pie_menu
+Ufuk Şahin | [ufukhawk](https://github.com/ufukhawk) | https://pub.dev/packages/safe_device
 Tayyip Güzel | [tyypgzl](https://github.com/tyypgzl) | https://pub.dev/packages/easy_onboard
 
