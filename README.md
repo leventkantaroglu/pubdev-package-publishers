@@ -4,14 +4,15 @@
 
 Onaylı Yayıncı | Repository | Pub.dev Yayıncı Sayfa Bağlantısı
 --- | --- | --- 
-Emre Coşkunçay| [coskuncay](https://github.com/coskuncay)| https://pub.dev/publishers/justec.dev/packages
-Flutter Türkiye | [flutterturkey](https://github.com/flutterturkey) | https://pub.dev/publishers/flutterturkiye.org/
-Levent Kantaroğlu | [leventkantaroglu](https://github.com/leventkantaroglu) | https://pub.dev/publishers/leventkantaroglu.com/
-Mehmet Ali Bayram | [malibayram91](https://github.com/malibayram91) | https://pub.dev/publishers/dershub.com/
-Mehmet Yaz | [Mehmetyaz](https://github.com/Mehmetyaz) | https://pub.dev/publishers/styledart.dev/packages
-Taner Şener | [tanersenerz](https://github.com/tanersenerz)  | https://pub.dev/publishers/arthenica.com/
-Veli Bacık | [VB10](https://github.com/VB10) | https://pub.dev/publishers/vb10.dev/
-Yasin İlhan | [kalismeras61](github.com/kalismeras61/) | https://pub.dev/publishers/yasinilhan.com/packages
+Emre Coşkunçay | [coskuncay](https://github.com/coskuncay)| https://pub.dev/publishers/justec.dev
+Emre Utku Uyguç | [emreuyguc](https://github.com/emreuyguc)| https://pub.dev/publishers/emreuyguc.com
+Flutter Türkiye | [flutterturkey](https://github.com/flutterturkey) | https://pub.dev/publishers/flutterturkiye.org
+Levent Kantaroğlu | [leventkantaroglu](https://github.com/leventkantaroglu) | https://pub.dev/publishers/leventkantaroglu.com
+Mehmet Ali Bayram | [malibayram91](https://github.com/malibayram91) | https://pub.dev/publishers/dershub.com
+Mehmet Yaz | [Mehmetyaz](https://github.com/Mehmetyaz) | https://pub.dev/publishers/styledart.dev
+Taner Şener | [tanersenerz](https://github.com/tanersenerz)  | https://pub.dev/publishers/arthenica.com
+Veli Bacık | [VB10](https://github.com/VB10) | https://pub.dev/publishers/vb10.dev
+Yasin İlhan | [kalismeras61](github.com/kalismeras61/) | https://pub.dev/publishers/yasinilhan.com
 
 Yayıncı | Repository |Pub.dev Paket Bağlantısı
 --- | --- | --- 
