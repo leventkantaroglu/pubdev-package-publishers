@@ -15,6 +15,7 @@ Yasin İlhan | [kalismeras61](github.com/kalismeras61/) | https://pub.dev/publis
 
 Yayıncı | Repository |Pub.dev Paket Bağlantısı
 --- | --- | --- 
+Ufuk Şahin | [ufukhawk](https://github.com/ufukhawk) | https://pub.dev/packages/safe_device
 Ahmet Burak Özyurt | [burakozyurt](https://github.com/burakozyurt/) | https://pub.dev/packages/stepper_counter_swipe
 Ahmet Çelik | [ahm3tcelik](https://github.com/ahm3tcelik) | https://pub.dev/packages/city_picker_from_map https://pub.dev/packages/dart_writer
 Ahmet Fatih Çenesiz | [fcenesiz](https://github.com/fcenesiz) | https://pub.dev/packages/sticky_grid_view
