@@ -7,6 +7,7 @@ Onaylı Yayıncı | Repository | Pub.dev Yayıncı Sayfa Bağlantısı
 Emre Coşkunçay | [coskuncay](https://github.com/coskuncay)| https://pub.dev/publishers/justec.dev
 Emre Utku Uyguç | [emreuyguc](https://github.com/emreuyguc)| https://pub.dev/publishers/emreuyguc.com
 Flutter Türkiye | [flutterturkey](https://github.com/flutterturkey) | https://pub.dev/publishers/flutterturkiye.org
+Göktuğ Özdemir | [bgoktugozdemir](https://github.com/bgoktugozdemir) | https://pub.dev/publishers/bgoktugozdemir.net
 Levent Kantaroğlu | [leventkantaroglu](https://github.com/leventkantaroglu) | https://pub.dev/publishers/leventkantaroglu.com
 Mehmet Ali Bayram | [malibayram91](https://github.com/malibayram91) | https://pub.dev/publishers/dershub.com
 Mehmet Yaz | [Mehmetyaz](https://github.com/Mehmetyaz) | https://pub.dev/publishers/styledart.dev
