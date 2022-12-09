@@ -12,6 +12,7 @@ Göktuğ Özdemir | [bgoktugozdemir](https://github.com/bgoktugozdemir) | https:
 Levent Kantaroğlu | [leventkantaroglu](https://github.com/leventkantaroglu) | https://pub.dev/publishers/leventkantaroglu.com
 Mehmet Ali Bayram | [malibayram91](https://github.com/malibayram91) | https://pub.dev/publishers/dershub.com
 Mehmet Yaz | [Mehmetyaz](https://github.com/Mehmetyaz) | https://pub.dev/publishers/styledart.dev
+Mert Gül | [imertgul](https://github.com/imertgul) | https://pub.dev/publishers/mertgul.com.tr/
 Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/publishers/msaadev.com
 Ramazan Erbaşaran | [erbasaran](https://github.com/erbasaran) | https://pub.dev/publishers/erbasaran.com
 Taner Şener | [tanersenerz](https://github.com/tanersenerz)  | https://pub.dev/publishers/arthenica.com
