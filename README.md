@@ -32,6 +32,7 @@ Bahrican Yeşil | [bahricanyesil](https://github.com/bahricanyesil/) | https://p
 Çağlar Yılmaz | [caglarylmz](https://github.com/caglarylmz) | https://pub.dev/packages/slide_digital_clock
 Eren Demir | [endmr11](https://github.com/endmr11/ed_screen_recorder) | https://pub.dev/packages/ed_screen_recorder https://pub.dev/packages/bluetooth_state_manager
 Fatih Işılgan | [FATIHISILGAN](https://github.com/FATIHISILGAN/) | https://pub.dev/packages/datalib
+Gökhan Varış | [gokhanvaris](https://github.com/gokhanvaris) | https://pub.dev/packages/f_dialog
 Hatice Nur Coşkun | [Haticenurcoskunn](https://github.com/Haticenurcoskunn/) | https://pub.dev/packages/vertical_listtile
 İlyas Hayrat | [ilyashyrt](https://github.com/ilyashyrt) | https://pub.dev/packages/circular_textfield 
 Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/packages/mina_reader
