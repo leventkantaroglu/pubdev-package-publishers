@@ -5,6 +5,7 @@
 Onaylı Yayıncı | Repository | Pub.dev Yayıncı Sayfa Bağlantısı
 --- | --- | --- 
 Baran Açıkgöz | [baranacikgoz](https://github.com/baranacikgoz)| https://pub.dev/publishers/baranacikgoz.dev
+Emin Tolgahan Polat | [emintolgahanpolat](https://github.com/emintolgahanpolat)| https://pub.dev/publishers/emintolgahanpolat.com
 Emre Coşkunçay | [coskuncay](https://github.com/coskuncay)| https://pub.dev/publishers/justec.dev
 Emre Utku Uyguç | [emreuyguc](https://github.com/emreuyguc)| https://pub.dev/publishers/emreuyguc.com
 Flutter Türkiye | [flutterturkey](https://github.com/flutterturkey) | https://pub.dev/publishers/flutterturkiye.org
