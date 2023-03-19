@@ -31,6 +31,7 @@ Ahmet Özberk | [ahmet-ozberk](https://github.com/ahmet-ozberk) | https://pub.de
 Aytunc Isseven |[aytunch](https://github.com/aytunch) | https://pub.dev/packages/instagram_video_story_share
 Bahrican Yeşil | [bahricanyesil](https://github.com/bahricanyesil/) | https://pub.dev/packages/animated_login
 Çağlar Yılmaz | [caglarylmz](https://github.com/caglarylmz) | https://pub.dev/packages/slide_digital_clock
+Emre Gültekir | [E-MRE](https://github.com/E-MRE) | https://pub.dev/packages/version_comparator
 Eren Demir | [endmr11](https://github.com/endmr11/ed_screen_recorder) | https://pub.dev/packages/ed_screen_recorder https://pub.dev/packages/bluetooth_state_manager
 Fatih Işılgan | [FATIHISILGAN](https://github.com/FATIHISILGAN/) | https://pub.dev/packages/datalib
 Gökhan Varış | [gokhanvaris](https://github.com/gokhanvaris) | https://pub.dev/packages/f_dialog
