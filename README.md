@@ -39,6 +39,7 @@ Gökhan Varış | [gokhanvaris](https://github.com/gokhanvaris) | https://pub.de
 Hatice Nur Coşkun | [Haticenurcoskunn](https://github.com/Haticenurcoskunn/) | https://pub.dev/packages/vertical_listtile
 İlyas Hayrat | [ilyashyrt](https://github.com/ilyashyrt) | https://pub.dev/packages/circular_textfield 
 Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/packages/mina_reader
+Muhammet Ali Aydoğdu | [drklepson](https://github.com/drklepson) | https://pub.dev/packages/drklepson_future_loading
 Raşit Ayaz | [RasitAyaz](https://github.com/RasitAyaz) | https://pub.dev/packages/pie_menu
 Ufuk Şahin | [ufukhawk](https://github.com/ufukhawk) | https://pub.dev/packages/safe_device
 Tayyip Güzel | [tyypgzl](https://github.com/tyypgzl) | https://pub.dev/packages/easy_onboard
