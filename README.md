@@ -19,6 +19,7 @@ Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/
 Oğuzhan Atalay | [oguzhnatly](https://github.com/oguzhnatly) | https://pub.dev/publishers/oguzhanatalay.com
 Ramazan Erbaşaran | [erbasaran](https://github.com/erbasaran) | https://pub.dev/publishers/erbasaran.com
 Taner Şener | [tanersenerz](https://github.com/tanersenerz)  | https://pub.dev/publishers/arthenica.com
+Tayyip Güzel | [tyypgzl](https://github.com/tyypgzl) | https://pub.dev/publishers/tguzel.dev
 Veli Bacık | [VB10](https://github.com/VB10) | https://pub.dev/publishers/vb10.dev
 Yasin İlhan | [kalismeras61](github.com/kalismeras61/) | https://pub.dev/publishers/yasinilhan.com
 
@@ -42,4 +43,3 @@ Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/package
 Muhammet Ali Aydoğdu | [drklepson](https://github.com/drklepson) | https://pub.dev/packages/drklepson_future_loading
 Raşit Ayaz | [RasitAyaz](https://github.com/RasitAyaz) | https://pub.dev/packages/pie_menu
 Ufuk Şahin | [ufukhawk](https://github.com/ufukhawk) | https://pub.dev/packages/safe_device
-Tayyip Güzel | [tyypgzl](https://github.com/tyypgzl) | https://pub.dev/packages/easy_onboard
