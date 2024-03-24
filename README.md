@@ -26,7 +26,7 @@ Yasin İlhan | [kalismeras61](github.com/kalismeras61/) | https://pub.dev/publis
 Yayıncı | Repository |Pub.dev Paket Bağlantısı
 --- | --- | --- 
 Ahmet Burak Özyurt | [burakozyurt](https://github.com/burakozyurt/) | https://pub.dev/packages/stepper_counter_swipe
-Ahmet Çelik | [ahm3tcelik](https://github.com/ahm3tcelik) | https://pub.dev/packages/city_picker_from_map https://pub.dev/packages/dart_writer
+Ahmet Çelik | [ahm3tcelik](https://github.com/ahm3tcelik) | https://pub.dev/packages/city_picker_from_map<br />https://pub.dev/packages/dart_writer
 Ahmet Fatih Çenesiz | [fcenesiz](https://github.com/fcenesiz) | https://pub.dev/packages/sticky_grid_view
 Ahmet Özberk | [ahmet-ozberk](https://github.com/ahmet-ozberk) | https://pub.dev/packages/grock
 Akifcan Kara | [Akifcan](https://github.com/Akifcan) | https://pub.dev/packages/fuzz_dart
