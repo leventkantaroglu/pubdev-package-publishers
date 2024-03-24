@@ -34,7 +34,7 @@ Aytunc Isseven |[aytunch](https://github.com/aytunch) | https://pub.dev/packages
 Bahrican Yeşil | [bahricanyesil](https://github.com/bahricanyesil/) | https://pub.dev/packages/animated_login
 Çağlar Yılmaz | [caglarylmz](https://github.com/caglarylmz) | https://pub.dev/packages/slide_digital_clock
 Emre Gültekir | [E-MRE](https://github.com/E-MRE) | https://pub.dev/packages/version_comparator
-Eren Demir | [endmr11](https://github.com/endmr11/) | https://pub.dev/packages/ed_screen_recorder https://pub.dev/packages/bluetooth_state_manager https://pub.dev/packages/cancellable_process https://pub.dev/packages/ed_manager
+Eren Demir | [endmr11](https://github.com/endmr11/) | https://pub.dev/packages/ed_screen_recorder<br />https://pub.dev/packages/bluetooth_state_manager<br />https://pub.dev/packages/cancellable_process<br />https://pub.dev/packages/ed_manager
 Fatih Işılgan | [FATIHISILGAN](https://github.com/FATIHISILGAN/) | https://pub.dev/packages/datalib
 Gökhan Varış | [gokhanvaris](https://github.com/gokhanvaris) | https://pub.dev/packages/f_dialog
 Hatice Nur Coşkun | [Haticenurcoskunn](https://github.com/Haticenurcoskunn/) | https://pub.dev/packages/vertical_listtile
