@@ -4,6 +4,7 @@
 
 Onaylı Yayıncı | Repository | Pub.dev Yayıncı Sayfa Bağlantısı
 --- | --- | --- 
+Ahmet Veysel Sezer | [ahmetveysels](https://github.com/ahmetveysels)| https://pub.dev/publishers/ahmetveysel.com
 Baran Açıkgöz | [baranacikgoz](https://github.com/baranacikgoz)| https://pub.dev/publishers/baranacikgoz.dev
 Emin Tolgahan Polat | [emintolgahanpolat](https://github.com/emintolgahanpolat)| https://pub.dev/publishers/emintolgahanpolat.com
 Emre Coşkunçay | [coskuncay](https://github.com/coskuncay)| https://pub.dev/publishers/justec.dev
