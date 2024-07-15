@@ -39,6 +39,7 @@ Eren Demir | [endmr11](https://github.com/endmr11/) | https://pub.dev/packages/e
 Fatih Işılgan | [FATIHISILGAN](https://github.com/FATIHISILGAN/) | https://pub.dev/packages/datalib
 Gökhan Varış | [gokhanvaris](https://github.com/gokhanvaris) | https://pub.dev/packages/f_dialog
 Hatice Nur Coşkun | [Haticenurcoskunn](https://github.com/Haticenurcoskunn/) | https://pub.dev/packages/vertical_listtile
+Hüseyin Gür | [githuseyingur](https://github.com/githuseyingur) | https://pub.dev/packages/time_scheduler_table
 İlyas Hayrat | [ilyashyrt](https://github.com/ilyashyrt) | https://pub.dev/packages/circular_textfield 
 Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/packages/mina_reader
 Muhammet Ali Aydoğdu | [drklepson](https://github.com/drklepson) | https://pub.dev/packages/drklepson_future_loading
