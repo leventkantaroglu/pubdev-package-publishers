@@ -19,6 +19,7 @@ Mert Gül | [imertgul](https://github.com/imertgul) | https://pub.dev/publishers
 Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/publishers/msaadev.com
 Oğuzhan Atalay | [oguzhnatly](https://github.com/oguzhnatly) | https://pub.dev/publishers/oguzhanatalay.com
 Ramazan Erbaşaran | [erbasaran](https://github.com/erbasaran) | https://pub.dev/publishers/erbasaran.com
+Tahsin Emre Telli | [tahsin-emre](https://github.com/tahsin-emre) | https://pub.dev/publishers/tahsinemre.com
 Taner Şener | [tanersenerz](https://github.com/tanersenerz)  | https://pub.dev/publishers/arthenica.com
 Tayyip Güzel | [tyypgzl](https://github.com/tyypgzl) | https://pub.dev/publishers/tguzel.dev
 Veli Bacık | [VB10](https://github.com/VB10) | https://pub.dev/publishers/vb10.dev
@@ -45,4 +46,5 @@ Mehmet Demir | [demirdev](https://github.com/demirdev) | https://pub.dev/package
 Muhammet Ali Aydoğdu | [drklepson](https://github.com/drklepson) | https://pub.dev/packages/drklepson_future_loading
 Mustafa Demir | [codewithmustafa](https://github.com/codewithmustafa) | https://pub.dev/packages/tcmb_api_client
 Raşit Ayaz | [RasitAyaz](https://github.com/RasitAyaz) | https://pub.dev/packages/pie_menu
+Tahsin Emre Telli | [tahsin-emre](https://github.com/tahsin-emre) | https://pub.dev/packages/iyzi_dart
 Ufuk Şahin | [ufukhawk](https://github.com/ufukhawk) | https://pub.dev/packages/safe_device
