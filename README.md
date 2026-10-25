@@ -16,7 +16,7 @@ Levent Kantaroğlu | [leventkantaroglu](https://github.com/leventkantaroglu) | h
 Mehmet Ali Bayram | [malibayram91](https://github.com/malibayram91) | https://pub.dev/publishers/dershub.com
 Mehmet Yaz | [Mehmetyaz](https://github.com/Mehmetyaz) | https://pub.dev/publishers/styledart.dev
 Mert Gül | [imertgul](https://github.com/imertgul) | https://pub.dev/publishers/mertgul.com.tr
-Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/publishers/msaadev.com
+Muhammed Şamil Demir | [msaadev](https://github.com/msaadev) | https://pub.dev/publishers/monsware.com
 Oğuzhan Atalay | [oguzhnatly](https://github.com/oguzhnatly) | https://pub.dev/publishers/oguzhanatalay.com
 Ramazan Erbaşaran | [erbasaran](https://github.com/erbasaran) | https://pub.dev/publishers/erbasaran.com
 Tahsin Emre Telli | [tahsin-emre](https://github.com/tahsin-emre) | https://pub.dev/publishers/tahsinemre.com
